@@ -42,7 +42,15 @@ GPT composes a response using structured data.
 Response is moderated and self-checked for quality.
 
 Assistant interacts continuously via a web-based chat panel.
+Run (Python 3.11):
+-> pip install openai panel python-dotenv
+-> pip install utils
+-> pip install --upgrade panel bokeh
+-> pip install panel==1.3.1 bokeh==3.5.1
+-> pip install panel
+
 
 💡 Vision
 
 An intelligent, safe, and self-evaluating digital assistant that blends human empathy with AI precision — a foundation for next-generation autonomous customer experience systems.
+
